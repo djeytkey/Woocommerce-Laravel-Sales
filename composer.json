@@ -1,5 +1,5 @@
 {
-    "name": "woo-sales/report",
+    "name": "boukjijtarik/report",
     "description": "A Laravel package to fetch WooCommerce orders using database queries",
     "type": "library",
     "license": "MIT",

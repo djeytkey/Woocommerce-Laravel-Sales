@@ -13,7 +13,7 @@ A Laravel package to fetch and display WooCommerce orders directly from the data
 1. Install the package via Composer:
 
 ```bash
-composer require woo-sales/report
+composer require boukjijtarik/report
 ```
 
 2. Publish the configuration file:
